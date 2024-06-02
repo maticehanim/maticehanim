@@ -5,7 +5,7 @@
 <h2><a href="#"><img src="https://cdn-icons-png.flaticon.com/512/190/190982.png" width="40px" height="40px"/></a> Github Stats</h2>
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=matice&show_icons=true&theme=synthwave" alt="maticehanim's Github stats"/></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raahuna&layout=compact&theme=synthwave" alt="Top languages"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matice&layout=compact&theme=synthwave" alt="Top languages"/></a>
 
 <hr>
 
