@@ -19,7 +19,7 @@
   </a>
 
   <a href="https://steamcommunity.com/profiles/76561199045276053">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Breezeicons-apps-48-steam.svg/2048px-Breezeicons-apps-48-steam.svg.png" alt="Steam" title="Rahuna" height="50px" width="50px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Breezeicons-apps-48-steam.svg/2048px-Breezeicons-apps-48-steam.svg.png" alt="Steam" title="matice" height="50px" width="50px"/>
   </a>
 </div>
 
