@@ -15,7 +15,7 @@
   </a>
 
   <a href="https://open.spotify.com/user/l2cntm5n722tnm2yfokbvwecf">
-    <img src="https://www.freeiconspng.com/thumbs/spotify-icon/spotify-icon-22.png" alt="Spotify" title="Rahuna" height="50px" width="50px"/>
+    <img src="https://www.freeiconspng.com/thumbs/spotify-icon/spotify-icon-22.png" alt="Spotify" title="matice" height="50px" width="50px"/>
   </a>
 
   <a href="https://steamcommunity.com/profiles/76561199045276053">
